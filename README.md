@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blessing Ezekiel</h1>
 <h3 align="center">A passionate python developer and bioinformatician from Nigeria</h3>
 
-- 🔭 I’m currently working on [Unit Converter](https://roadmap.sh/projects/unit-converter)
+- 🔭 I’m currently working on [Python Developer Projects](https://roadmap.sh/projects)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Python** , **HTML** , **CSS**
 
 - 👯 I’m looking to collaborate on **Open Source Python projects**
 
