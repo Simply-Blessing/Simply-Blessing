@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Blessing Ezekiel</h1>
-<h3 align="center">A passionate python developer and bioinformatician based in Denmark/h3>
+<h3 align="center">A passionate python developer and bioinformatician based in Denmark</h3>
 
 - 🔭 I’m currently working on [Python Developer Projects](https://roadmap.sh/projects)
 
