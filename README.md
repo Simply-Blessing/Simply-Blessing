@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blessing Ezekiel</h1>
-<h3 align="center">A passionate python developer and bioinformatician from Nigeria</h3>
+<h3 align="center">A passionate python developer and bioinformatician based in Denmark/h3>
 
 - 🔭 I’m currently working on [Python Developer Projects](https://roadmap.sh/projects)
 
-- 🌱 I’m currently learning **Python** , **HTML** , **CSS**
+- 🌱 I’m currently learning **HTML** , **CSS**
 
 - 👯 I’m looking to collaborate on **Open Source Python projects**
 
@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Simply-Blessing](https://github.com/Simply-Blessing)
 
-- 💬 Ask me about **Python, R**
+- 💬 Ask me about **Python, R**, **SQL**
 
 - 📫 How to reach me **blessezek564@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/blessing-ezekiel](www.linkedin.com/in/blessing-ezekiel)
 
-- ⚡ Fun fact **I think I am a chef**
+- ⚡ Fun fact **I like reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
